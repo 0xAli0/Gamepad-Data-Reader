@@ -1,4 +1,4 @@
-# Gamepad Data Reader using Pygame
+# Gamepad Data Reader
 
 This Python script allows you to read and display data from a gamepad connected to your computer using the Pygame library. The script will show real-time button presses and axis movements of the gamepad.
 
